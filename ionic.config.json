@@ -1,0 +1,7 @@
+{
+  "name": "ionic-tabs-app-router-bug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
